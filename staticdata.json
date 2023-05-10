@@ -4,7 +4,7 @@
         "title": "Spells",
         "text": "In This Video I Will Create Custom Spells By Using The Minecraft Bedrock Scripting API",
         "link": "https://youtu.be/lKs_vndyPYk",
-        "download": "",
+        "download": "spells",
         "downloadAd": ""
     },
     {
@@ -12,7 +12,7 @@
         "title": "Custom Enchants",
         "text": "In This Video I Will Create Custom Enchantments By Using The Minecraft Bedrock Scripting API",
         "link": "https://youtu.be/qgAA3ZVXVpo",
-        "download": "",
+        "download": "customEnchants",
         "downloadAd": ""
     }
 ]
