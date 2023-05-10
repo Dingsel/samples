@@ -1,0 +1,18 @@
+[
+    {
+        "image": "./mage.webp",
+        "title": "Spells",
+        "text": "In This Video I Will Create Custom Spells By Using The Minecraft Bedrock Scripting API",
+        "link": "https://youtu.be/lKs_vndyPYk",
+        "download": "",
+        "downloadAd": ""
+    },
+    {
+        "image": "./customEnchants.webp",
+        "title": "Custom Enchants",
+        "text": "In This Video I Will Create Custom Enchantments By Using The Minecraft Bedrock Scripting API",
+        "link": "https://youtu.be/qgAA3ZVXVpo",
+        "download": "",
+        "downloadAd": ""
+    }
+]
