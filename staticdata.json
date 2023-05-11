@@ -14,5 +14,13 @@
         "link": "https://youtu.be/qgAA3ZVXVpo",
         "download": "customEnchants",
         "downloadAd": "https://link-target.net/485327/minecraft-be-enchantments"
+    },
+    {
+        "image": "./obfuscated.webp",
+        "title": "Deobfuscation",
+        "text": "Simple CrackMeTto Learn Deobfuscation",
+        "link": "https://youtube.com/live/rl2NRyR4ZBw?feature=share",
+        "download": "crackMe",
+        "downloadAd": "https://dingsel.github.io/website/samples/crackMe"
     }
 ]
