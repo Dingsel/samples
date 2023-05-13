@@ -1,5 +1,21 @@
 [
     {
+        "image": "./oneBlock.webp",
+        "title": "One Block",
+        "text": "A One Block Skyblock With Randomized Blocks!",
+        "link": "https://youtu.be/lKs_vndyPYk",
+        "download": "oneBlock",
+        "downloadAd": "https://dingsel.github.io/website/samples/oneBlock"
+    },
+    {
+        "image": "./velocity.webp",
+        "title": "Velocity",
+        "text": "Sample On How To Use The Set Velocity Function",
+        "link": "https://youtu.be/lKs_vndyPYk",
+        "download": "velocity",
+        "downloadAd": "https://dingsel.github.io/website/samples/velocity"
+    },
+    {
         "image": "./mage.webp",
         "title": "Spells",
         "text": "In This Video I Will Create Custom Spells By Using The Minecraft Bedrock Scripting API",
