@@ -33,5 +33,12 @@
         "text": "Simple JSON UI Tutorial. The First One EVER",
         "link": "https://youtu.be/QhJkCDIZ-NU?si=PvYFRTugVIWJnGh-",
         "download": "ui1"
+    },
+    {
+        "image": "./ui2.webp",
+        "title": "JSON UI 2",
+        "text": "JSON UI Server Form Styling 🔥",
+        "link": "https://youtu.be/CWm-KU5ALOQ",
+        "download": "ui2"
     }
 ]
